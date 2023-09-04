@@ -1,0 +1,556 @@
+Tree Id,coordinates,Tree Image URL,Species,Planted Date,Name,Location
+4398181,POINT(76.0125229 17.7550586),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/8SNx-1672171635.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4398182,POINT(76.0123582 17.7557455),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/pzSf-1672171638.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4398183,POINT(76.0125094 17.7557806),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/921x-1672171641.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4398184,POINT(76.0125819 17.755809),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/UMYB-1672171645.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4398185,POINT(76.0121355 17.7559224),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/kEoy-1672171648.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4427698,POINT(76.8177552 20.4707776),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/1674-1672752252.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427699,POINT(76.8177459 20.4708128),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/uMv3-1672752255.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427700,POINT(76.8176466 20.4708219),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/oJbf-1672752259.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427701,POINT(76.817666 20.4708906),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/a5VE-1672752262.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427702,POINT(76.8177604 20.471007),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/vSkh-1672752265.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427703,POINT(76.8176862 20.470485),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/d9Vk-1672752268.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427704,POINT(76.8178001 20.470527),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/CHZ7-1672752271.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427705,POINT(76.8178059 20.4708366),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/7NZD-1672752274.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427706,POINT(76.8176725 20.4710553),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/o6iM-1672752277.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427707,POINT(76.8177436 20.471289),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Dnjd-1672752281.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427708,POINT(76.8178067 20.470782),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/EXvR-1672752284.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427709,POINT(76.8178235 20.4708407),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/CyKd-1672752287.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427710,POINT(76.8178284 20.4709398),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/7v0M-1672752290.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427711,POINT(76.8178848 20.4710929),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/wkzr-1672752293.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427712,POINT(76.8178615 20.4712204),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/AjRi-1672752296.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427713,POINT(76.817796 20.470666),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/USIB-1672752300.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427714,POINT(76.8178049 20.4707407),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/bkbw-1672752303.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427715,POINT(76.8179461 20.4708009),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/8Ads-1672752306.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427716,POINT(76.8179001 20.4710642),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/pgvf-1672752309.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427717,POINT(76.8179797 20.471201),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/aBYH-1672752312.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427718,POINT(76.8179073 20.4705516),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/6jUN-1672752316.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427719,POINT(76.8179751 20.4706066),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Ba1q-1672752319.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427720,POINT(76.818017 20.4706427),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/4pwX-1672752322.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427721,POINT(76.8179391 20.4706907),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/kRzW-1672752325.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427722,POINT(76.8179881 20.4706951),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/v2eg-1672752329.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427723,POINT(76.8179967 20.4707907),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/R2CM-1672752332.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427724,POINT(76.8180355 20.4708682),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/VLxo-1672752335.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427725,POINT(76.8180586 20.4709033),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/KaVq-1672752338.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427726,POINT(76.8180066 20.4710807),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/B1Rm-1672752341.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427727,POINT(76.8180067 20.4712312),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/vXdO-1672752345.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427728,POINT(76.8180335 20.4704762),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/sRK6-1672752348.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427729,POINT(76.8180637 20.4707004),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/vpk5-1672752351.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427730,POINT(76.8180594 20.470758),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/plze-1672752354.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427731,POINT(76.8180509 20.4707759),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/f48b-1672752357.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427732,POINT(76.8180567 20.4709917),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Ok7i-1672752361.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427733,POINT(76.8175871 20.4704577),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/vNo8-1672752364.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427734,POINT(76.8176452 20.4707562),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ERNh-1672752368.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427735,POINT(76.8177463 20.4708684),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/zhiJ-1672752371.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427736,POINT(76.8176687 20.4710782),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/bSh2-1672752374.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427737,POINT(76.8177689 20.4711513),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/IPxJ-1672752377.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427738,POINT(76.8177109 20.4705693),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/1Nva-1672752381.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427739,POINT(76.8176765 20.4706179),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/oAir-1672752384.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427740,POINT(76.8176615 20.4708062),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Ybyu-1672752387.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427741,POINT(76.8176668 20.4708576),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/OWcc-1672752390.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427742,POINT(76.8176843 20.4709944),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/0nFl-1672752393.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427743,POINT(76.8178616 20.4705106),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/XWtx-1672752396.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427744,POINT(76.8177967 20.4706669),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/DU0f-1672752399.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427745,POINT(76.8177946 20.4707126),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/nUBv-1672752402.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427746,POINT(76.8178345 20.4710652),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/SshJ-1672752406.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427747,POINT(76.8178333 20.4711337),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/NcTt-1672752409.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427748,POINT(76.8178889 20.4706496),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/bG4L-1672752412.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427749,POINT(76.8178834 20.4708),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/QIOf-1672752416.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427750,POINT(76.8178724 20.470985),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Swv2-1672752419.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427751,POINT(76.8179625 20.4710126),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/OEdA-1672752422.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427752,POINT(76.8178988 20.4712104),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/cVwz-1672752425.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427753,POINT(76.8180149 20.4704205),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/LCvw-1672752429.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427754,POINT(76.817911 20.4704648),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/MtH6-1672752432.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427755,POINT(76.8179183 20.4706192),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/UMum-1672752435.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427756,POINT(76.8180547 20.4708274),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Ch0j-1672752438.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427757,POINT(76.8180506 20.4709669),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/vHfF-1672752441.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427758,POINT(76.818034 20.4704135),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Fzx7-1672752445.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427759,POINT(76.8180707 20.4706197),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/7ZFt-1672752448.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427760,POINT(76.8176458 20.4706615),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ySM2-1672752451.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427761,POINT(76.8176659 20.4711758),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/BqXf-1672752454.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427762,POINT(76.8176223 20.4712229),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/zepz-1672752457.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427763,POINT(76.817652 20.4705026),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/tzdr-1672752460.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427764,POINT(76.8176585 20.4706141),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ACE6-1672752464.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427765,POINT(76.8177667 20.4706997),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/1UBS-1672752467.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427766,POINT(76.8177519 20.4708558),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/gcSl-1672752470.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427767,POINT(76.8177124 20.4709258),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/FEQO-1672752473.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427768,POINT(76.8176425 20.4707587),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/LBBo-1672752476.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427769,POINT(76.8176652 20.4709141),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ae2f-1672752480.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427770,POINT(76.8177485 20.4710939),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/pgAh-1672752483.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427771,POINT(76.8176967 20.4712109),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/lVet-1672752486.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427772,POINT(76.8177229 20.4712315),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/XnaR-1672752490.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427773,POINT(76.8176934 20.4705349),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/nfCt-1672752493.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427774,POINT(76.8176609 20.4706945),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/XTFY-1672752496.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427775,POINT(76.8178041 20.4707369),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/0kW2-1672752499.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427776,POINT(76.8178157 20.4707871),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/wAav-1672752502.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427777,POINT(76.8178302 20.4711925),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/3U2v-1672752506.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427778,POINT(76.8178267 20.4704822),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/HDkB-1672752509.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427779,POINT(76.8178284 20.4709442),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/tbe8-1672752512.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427780,POINT(76.8178491 20.4709987),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/gBK1-1672752515.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427781,POINT(76.8178869 20.4710329),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/pTib-1672752518.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427782,POINT(76.8179279 20.4711274),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Sq0W-1672752521.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427783,POINT(76.8178616 20.4704339),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ALF2-1672752524.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427784,POINT(76.8178781 20.4705242),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/RbOb-1672752528.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427785,POINT(76.8178837 20.470586),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/repN-1672752531.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427786,POINT(76.817889 20.4706986),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Appk-1672752534.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427787,POINT(76.8178925 20.4707369),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/olOR-1672752537.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427788,POINT(76.8178883 20.4709158),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/inXb-1672752540.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427789,POINT(76.817896 20.4710086),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/MT24-1672752543.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427790,POINT(76.8179669 20.4710827),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ZTYO-1672752547.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427791,POINT(76.8179062 20.4711048),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/CHiA-1672752550.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427792,POINT(76.8179692 20.4711398),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ZDzY-1672752553.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427793,POINT(76.8180063 20.4705119),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/FuTh-1672752556.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427794,POINT(76.8178878 20.4705184),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/IQGD-1672752559.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427795,POINT(76.8179645 20.4707399),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/hDCV-1672752562.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427796,POINT(76.817943 20.4708572),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/U25e-1672752565.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427797,POINT(76.8179317 20.4709014),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/8LWE-1672752568.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427798,POINT(76.8180437 20.4710231),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/G2I7-1672752571.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427799,POINT(76.8176744 20.4710517),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/3gNx-1672752575.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427800,POINT(76.818018 20.4711295),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/heXn-1672752578.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427801,POINT(76.8180245 20.4711776),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/PbDg-1672752581.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427802,POINT(76.8180583 20.4712199),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/9KL3-1672752584.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427803,POINT(76.8177303 20.4705611),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/7FlT-1672752587.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427804,POINT(76.8177489 20.4706457),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/IFNE-1672752590.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427805,POINT(76.8176953 20.4709491),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/efjz-1672752593.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427806,POINT(76.8176754 20.4711289),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/o3TT-1672752596.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427807,POINT(76.8177699 20.4712729),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/vPl4-1672752600.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427813,POINT(76.8178191 20.4705845),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/JqBd-1672752620.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427814,POINT(76.8177889 20.470597),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/bcbj-1672752623.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427815,POINT(76.8178036 20.4708944),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/5QvF-1672752626.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427816,POINT(76.8178211 20.4709),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/1CS8-1672752629.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427817,POINT(76.817827 20.4709941),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Qw1k-1672752633.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427823,POINT(76.8179455 20.4704166),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/UyWd-1672752651.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427824,POINT(76.8178357 20.4704175),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ZRaw-1672752654.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427825,POINT(76.8180175 20.4706948),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/UjOt-1672752657.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427826,POINT(76.8178908 20.4708591),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Wear-1672752660.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427827,POINT(76.8178909 20.4711575),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/m0x2-1672752663.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427828,POINT(76.818018 20.4705717),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/bn6d-1672752667.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427829,POINT(76.8180714 20.47088),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/8WgS-1672752670.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427830,POINT(76.8180672 20.4709506),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/TvkZ-1672752674.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427831,POINT(76.8180624 20.4710553),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/hXIQ-1672752677.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427832,POINT(76.8180653 20.4711424),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Nv0m-1672752680.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4427833,POINT(76.8180243 20.4705392),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/CFIg-1672752683.jpg,Lemon,4/3/2023,Pramod Vasudev Dhotre,Sukali Vivara
+4494947,POINT(76.0126539 17.7549711),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/THnW-1673481441.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4494948,POINT(76.0128708 17.7549867),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/FOmI-1673481444.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4494949,POINT(76.0128663 17.7550034),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/EyWo-1673481448.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4494950,POINT(76.0127524 17.7550078),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/d52g-1673481451.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4494951,POINT(76.0123585 17.7555191),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/7siF-1673481454.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4495403,POINT(76.0124891 17.7551219),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/hmPv-1673482879.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4495404,POINT(76.012494 17.7554638),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/BTGs-1673482882.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4495405,POINT(76.0122994 17.755489),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/5NT0-1673482885.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4495406,POINT(76.0126095 17.7555627),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/GTOo-1673482888.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4495407,POINT(76.0123675 17.7560225),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/uA0X-1673482892.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781269,POINT(76.0125381 17.754776),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/eP5C-1677664034.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781270,POINT(76.0125133 17.755071),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/PvH7-1677664038.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781271,POINT(76.0125869 17.755786),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/sGwi-1677664042.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781272,POINT(76.0123281 17.755833),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ZYpc-1677664045.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781273,POINT(76.0126118 17.756101),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/BOYX-1677664049.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781279,POINT(76.0127025 17.7549401),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/QKph-1677664077.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781280,POINT(76.0126028 17.7552478),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/4iFu-1677664081.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781281,POINT(76.0125559 17.755853),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/SEww-1677664084.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781282,POINT(76.0122498 17.756006),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/tJVY-1677664088.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781283,POINT(76.0123302 17.756035),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/WThM-1677664091.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781284,POINT(76.0126598 17.7553477),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/SLm8-1677664095.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781285,POINT(76.0125108 17.7554319),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/8Aft-1677664098.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781286,POINT(76.0123168 17.7558503),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/slrj-1677664102.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781287,POINT(76.0122784 17.7559295),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/W6xa-1677664106.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781288,POINT(76.012083 17.7559694),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/87im-1677664109.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781289,POINT(76.0128281 17.7551724),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/3Hqt-1677664114.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781290,POINT(76.0126952 17.7552565),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/3sZ0-1677664117.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781291,POINT(76.0123278 17.7560521),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/4iBp-1677664121.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781292,POINT(76.0122151 17.7560558),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/5F8I-1677664124.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781293,POINT(76.0123467 17.7561052),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/wG1V-1677664128.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781299,POINT(76.0124222 17.7552722),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/gpn9-1677664146.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781300,POINT(76.0125605 17.7553329),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/BXY0-1677664150.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781301,POINT(76.0124385 17.7557729),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/RS9z-1677664153.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781302,POINT(76.0123022 17.7558614),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/rXMW-1677664157.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781303,POINT(76.0121859 17.7558617),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/0B6H-1677664161.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781309,POINT(76.012905 17.7550035),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/FOKG-1677664182.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781310,POINT(76.0127966 17.7550561),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/8jxr-1677664186.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781311,POINT(76.0122543 17.7559621),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/7HC9-1677664190.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781312,POINT(76.0123389 17.7560808),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/5sAv-1677664193.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781313,POINT(76.0124633 17.7561517),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/dVVQ-1677664197.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781324,POINT(76.0127931 17.7550606),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/vL9F-1677664241.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781325,POINT(76.0126574 17.7551126),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/pYxB-1677664245.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781326,POINT(76.0124744 17.7551674),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/b7fP-1677664249.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781327,POINT(76.0126768 17.7553115),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/6KFZ-1677664252.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781328,POINT(76.0127129 17.7553152),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/KTQH-1677664256.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781334,POINT(76.0127376 17.7553999),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/lLiZ-1677664273.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781335,POINT(76.0125345 17.7557191),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/R0DF-1677664277.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781336,POINT(76.0124657 17.7557216),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/3Lmf-1677664281.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781337,POINT(76.0122031 17.7558232),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/HTZB-1677664284.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781338,POINT(76.012316 17.7558355),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/MYUe-1677664287.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781344,POINT(76.0128827 17.7551459),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/24sj-1677664305.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781345,POINT(76.012655 17.7551647),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/03Pf-1677664309.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781346,POINT(76.0131983 17.7551771),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/5KiT-1677664312.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781347,POINT(76.0126249 17.7551922),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/SWXO-1677664316.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781348,POINT(76.012584 17.7561613),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/AEPo-1677664319.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781354,POINT(76.0127456 17.7551951),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/KxnU-1677664338.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781355,POINT(76.012505 17.7552093),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/8qJw-1677664342.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781356,POINT(76.0124848 17.7557974),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/FTRA-1677664345.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781357,POINT(76.0125486 17.7558716),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/FRCa-1677664349.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781358,POINT(76.0123932 17.7560075),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/lm41-1677664352.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781364,POINT(76.0126198 17.7548489),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/hJQq-1677664370.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781365,POINT(76.0128424 17.7551353),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/9PeX-1677664374.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781366,POINT(76.0126959 17.7553539),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/FhHF-1677664377.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781367,POINT(76.0127103 17.7554668),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/kzyH-1677664381.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781368,POINT(76.0122308 17.7560393),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/s8k0-1677664385.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781374,POINT(76.0128349 17.7549617),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Klyc-1677664403.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781375,POINT(76.0127115 17.7550097),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ba6o-1677664407.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781376,POINT(76.012682 17.7555448),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/BAmq-1677664410.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781377,POINT(76.0124536 17.7557464),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/AcBQ-1677664414.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781378,POINT(76.0124013 17.7559603),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/CMaq-1677664417.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781384,POINT(76.012428 17.7552502),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/mS69-1677664435.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781385,POINT(76.0125981 17.7552583),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/slPT-1677664439.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781386,POINT(76.0124655 17.7553006),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/cWDH-1677664442.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781387,POINT(76.0123153 17.7556083),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/fONv-1677664446.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781388,POINT(76.0122143 17.7556473),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/VbNU-1677664449.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781394,POINT(76.0127034 17.7550913),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/IoDi-1677664467.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781395,POINT(76.0124843 17.7557933),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/cfr2-1677664471.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781396,POINT(76.0124989 17.7559558),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/5rhC-1677664474.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781397,POINT(76.0121218 17.7559998),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/SHL2-1677664478.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781398,POINT(76.01254 17.7562487),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/p1dZ-1677664481.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781404,POINT(76.0131409 17.7551524),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/xfUd-1677664499.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781405,POINT(76.0123338 17.7555587),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/OxOJ-1677664503.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781406,POINT(76.0125552 17.7555695),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/DIhv-1677664506.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781407,POINT(76.0123971 17.7556597),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/6CjW-1677664510.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781408,POINT(76.0123728 17.7556991),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/XMYE-1677664514.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781414,POINT(76.0127881 17.7549468),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/xETU-1677664532.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781415,POINT(76.0128435 17.7549677),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/fKSJ-1677664536.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781416,POINT(76.0127246 17.7549739),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/9MUq-1677664539.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781417,POINT(76.0121117 17.7559384),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/vVZz-1677664543.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781418,POINT(76.0122549 17.7559924),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/DKHp-1677664546.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781424,POINT(76.0128698 17.7549968),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Ibu4-1677664565.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781425,POINT(76.0126502 17.7551296),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/qFwv-1677664570.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781426,POINT(76.0125892 17.7553122),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/FlrB-1677664573.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781427,POINT(76.0123947 17.7553198),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/QEVD-1677664577.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781428,POINT(76.0126992 17.7553438),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/TpS9-1677664580.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781434,POINT(76.012683 17.7553851),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/BQlV-1677664598.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781435,POINT(76.0123886 17.7554601),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/UExL-1677664602.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781436,POINT(76.0123774 17.7556933),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/5fAt-1677664605.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781437,POINT(76.0123484 17.7559744),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/7JZS-1677664610.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4781438,POINT(76.0123336 17.7560188),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/rGeb-1677664616.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783754,POINT(76.0125381 17.754776),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/4TO2-1677684230.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783755,POINT(76.0127931 17.7550606),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/FBMs-1677684233.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783756,POINT(76.0128281 17.7551724),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/z4kG-1677684237.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783757,POINT(76.0126028 17.7552478),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/EuAk-1677684241.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783758,POINT(76.0123278 17.7560521),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/2d0j-1677684245.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783799,POINT(76.0127115 17.7550097),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/AgAN-1677684377.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783800,POINT(76.0124657 17.7557216),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/LBe5-1677684381.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783801,POINT(76.0123281 17.755833),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/oBw9-1677684384.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783802,POINT(76.0124989 17.7559558),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/qQVV-1677684388.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783803,POINT(76.0123302 17.756035),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/QRfc-1677684392.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783844,POINT(76.0128698 17.7549968),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Y11z-1677684525.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783845,POINT(76.0125108 17.7554319),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/5dNM-1677684528.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783846,POINT(76.0123886 17.7554601),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Syrp-1677684532.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783847,POINT(76.0122543 17.7559621),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/x2H2-1677684538.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783848,POINT(76.0123467 17.7561052),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/rdqs-1677684542.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783889,POINT(76.0128349 17.7549617),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/i5SM-1677684680.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783890,POINT(76.012905 17.7550035),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/loRY-1677684684.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783891,POINT(76.0128827 17.7551459),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/jyVa-1677684688.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783892,POINT(76.012428 17.7552502),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/u1b1-1677684691.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783893,POINT(76.0127103 17.7554668),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Vjss-1677684695.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783934,POINT(76.0123947 17.7553198),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/M0bq-1677684826.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783935,POINT(76.0126992 17.7553438),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/f4gF-1677684830.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783936,POINT(76.0123774 17.7556933),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/5zMQ-1677684834.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783937,POINT(76.0124843 17.7557933),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Dz0T-1677684838.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783938,POINT(76.0123168 17.7558503),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/VzH2-1677684841.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783979,POINT(76.0126768 17.7553115),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/VucC-1677684973.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783980,POINT(76.0125605 17.7553329),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/vfoF-1677684977.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783981,POINT(76.0124848 17.7557974),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/0Csv-1677684981.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783982,POINT(76.0122308 17.7560393),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/dgoG-1677684985.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4783983,POINT(76.012584 17.7561613),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/xwmR-1677684989.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784009,POINT(76.0126598 17.7553477),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/B1CY-1677685086.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784010,POINT(76.0127376 17.7553999),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Gt6T-1677685089.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784011,POINT(76.0123153 17.7556083),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/PqcQ-1677685093.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784012,POINT(76.012083 17.7559694),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/w1zS-1677685097.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784013,POINT(76.01254 17.7562487),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/AA3p-1677685101.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784049,POINT(76.0124385 17.7557729),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/QM7f-1677685221.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784050,POINT(76.0123022 17.7558614),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/1nsH-1677685225.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784051,POINT(76.0121859 17.7558617),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Zva4-1677685229.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784052,POINT(76.0122151 17.7560558),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/IOye-1677685232.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784053,POINT(76.0123389 17.7560808),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/DLJB-1677685236.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784084,POINT(76.0124744 17.7551674),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/DDU4-1677685339.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784085,POINT(76.0131983 17.7551771),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/87gu-1677685343.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784086,POINT(76.0124536 17.7557464),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/u53t-1677685347.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784087,POINT(76.0122031 17.7558232),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/L7La-1677685350.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784088,POINT(76.0122498 17.756006),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/RCSp-1677685354.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784124,POINT(76.0127025 17.7549401),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/M1t6-1677685467.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784125,POINT(76.0125133 17.755071),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/79gs-1677685470.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784126,POINT(76.0127034 17.7550913),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/MCcw-1677685474.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784127,POINT(76.012683 17.7553851),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/irTz-1677685477.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784128,POINT(76.0121117 17.7559384),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/G18D-1677685481.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784164,POINT(76.0126198 17.7548489),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/5q1G-1677685586.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784165,POINT(76.0126249 17.7551922),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/O4jV-1677685590.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784166,POINT(76.0123338 17.7555587),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/UTlk-1677685593.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784167,POINT(76.0122784 17.7559295),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/37IA-1677685597.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784168,POINT(76.0126118 17.756101),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/UZYw-1677685600.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784199,POINT(76.0127881 17.7549468),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/YJM7-1677685690.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784200,POINT(76.0128435 17.7549677),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/rEjD-1677685694.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784201,POINT(76.0127966 17.7550561),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/oEXn-1677685697.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784202,POINT(76.0122549 17.7559924),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/9qyY-1677685701.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784203,POINT(76.0123336 17.7560188),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/5qbV-1677685704.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784234,POINT(76.0126574 17.7551126),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/vIgO-1677685793.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784235,POINT(76.0127456 17.7551951),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/PG4H-1677685797.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784236,POINT(76.0127129 17.7553152),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/pug4-1677685801.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784237,POINT(76.0122143 17.7556473),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/GxIT-1677685804.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784238,POINT(76.0123728 17.7556991),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/uxJ5-1677685808.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784269,POINT(76.012505 17.7552093),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/h7P0-1677685893.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784270,POINT(76.0126952 17.7552565),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/PM6r-1677685896.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784271,POINT(76.0124222 17.7552722),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/AfMP-1677685900.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784272,POINT(76.0125869 17.755786),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/dZKq-1677685904.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784273,POINT(76.0125559 17.755853),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/GSdp-1677685907.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784304,POINT(76.0128424 17.7551353),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/azA4-1677685996.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784305,POINT(76.0126959 17.7553539),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/BOrf-1677686000.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784306,POINT(76.012682 17.7555448),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/4Xni-1677686003.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784307,POINT(76.0124013 17.7559603),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/i9GF-1677686007.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784308,POINT(76.0121218 17.7559998),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/yQkj-1677686010.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784339,POINT(76.0127246 17.7549739),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ir3A-1677686108.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784340,POINT(76.0126502 17.7551296),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/3Ut9-1677686111.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784341,POINT(76.0131409 17.7551524),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Xho9-1677686115.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784342,POINT(76.0125892 17.7553122),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/BkI6-1677686118.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4784343,POINT(76.0125345 17.7557191),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ADAD-1677686122.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4787493,POINT(76.0125981 17.7552583),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/r3BH-1677697105.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4787494,POINT(76.0124655 17.7553006),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Tvlx-1677697109.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4787495,POINT(76.0125552 17.7555695),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/IbaC-1677697112.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4787496,POINT(76.0123971 17.7556597),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Uzkc-1677697116.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+4787497,POINT(76.0124633 17.7561517),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/XHFs-1677697119.jpg,Custard Apple,3/13/2023,Suresh Sidharam Mhetre,"Vadji, sauth Solapur"
+5233610,POINT(76.5025055 18.0630858),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/381p-1684773565.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233611,POINT(76.5022912 18.0631095),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/zY3s-1684773569.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233612,POINT(76.5025056 18.0631981),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/C7ev-1684773573.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233613,POINT(76.5025508 18.0634669),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/9osH-1684773577.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233614,POINT(76.5025041 18.0634782),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/LV05-1684773581.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233615,POINT(76.5025376 18.0631151),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/qC5R-1684773585.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233616,POINT(76.5023002 18.0631504),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/sR40-1684773588.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233617,POINT(76.5027084 18.0635157),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/BEhn-1684773592.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233618,POINT(76.5024545 18.0635439),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/KADb-1684773596.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233619,POINT(76.5026527 18.0635668),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/e4aP-1684773600.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233620,POINT(76.5023338 18.0629971),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/TS5c-1684773604.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233621,POINT(76.5023852 18.0630417),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/SuZg-1684773608.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233622,POINT(76.5024627 18.0632274),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/3lgP-1684773611.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233623,POINT(76.502517 18.0634675),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/SrFH-1684773615.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233624,POINT(76.5025134 18.0636895),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/KUtZ-1684773619.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233625,POINT(76.5024787 18.0632054),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/9EPx-1684773623.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233626,POINT(76.5026619 18.0633075),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/A5Df-1684773626.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233627,POINT(76.5024297 18.0633426),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/jAvF-1684773630.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233628,POINT(76.5026714 18.0634227),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/l3Mw-1684773634.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233629,POINT(76.5025806 18.0634774),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/W5sw-1684773638.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233630,POINT(76.5023619 18.0633711),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/LKNN-1684773642.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233631,POINT(76.5022663 18.0633765),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/4HhL-1684773646.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233632,POINT(76.5023965 18.063435),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/TJ3p-1684773649.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233633,POINT(76.5023963 18.0634971),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/I0qV-1684773653.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233634,POINT(76.502505 18.0636901),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ANV8-1684773657.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233635,POINT(76.5023727 18.0629897),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/FhxF-1684773661.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233636,POINT(76.502375 18.063194),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/FiP8-1684773665.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233637,POINT(76.5024431 18.0632581),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ez8R-1684773669.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233638,POINT(76.5024897 18.0634438),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/kaRJ-1684773672.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233639,POINT(76.5024462 18.0634877),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/3wWF-1684773676.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233640,POINT(76.5024261 18.0628819),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/LWpw-1684773680.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233641,POINT(76.5025405 18.0634377),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/aFk5-1684773684.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233642,POINT(76.5025745 18.0634582),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/BU4R-1684773688.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233643,POINT(76.5025913 18.0636056),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/WMYF-1684773691.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233644,POINT(76.5026295 18.063658),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/3QcW-1684773695.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233645,POINT(76.5022948 18.063161),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/x3dK-1684773699.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233646,POINT(76.5023467 18.063321),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/b11L-1684773703.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233647,POINT(76.5025919 18.0633231),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/WLgu-1684773707.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233648,POINT(76.5022425 18.0633796),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/wFjY-1684773710.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233649,POINT(76.5020833 18.0634587),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/HHGg-1684773714.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233650,POINT(76.5023298 18.0630363),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/VkyY-1684773718.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233651,POINT(76.5024072 18.0630477),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/m1Yl-1684773722.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233652,POINT(76.5025227 18.0635658),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/B8oz-1684773726.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233653,POINT(76.5024406 18.0635714),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Rpqi-1684773730.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233654,POINT(76.5024421 18.0636915),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/PsVF-1684773733.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233655,POINT(76.5024606 18.063004),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/KL01-1684773737.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233656,POINT(76.5020825 18.0633962),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/R1KP-1684773741.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233657,POINT(76.5026091 18.0633986),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/en2v-1684773745.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233658,POINT(76.5026556 18.0634095),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/H3aa-1684773749.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233659,POINT(76.502676 18.0634573),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/DfGW-1684773753.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233660,POINT(76.5024005 18.063316),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/8Wrd-1684773757.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233661,POINT(76.5021472 18.0635044),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/HaZD-1684773761.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233662,POINT(76.5024609 18.0635626),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/e21Q-1684773765.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233663,POINT(76.5024362 18.0636567),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/sTqP-1684773769.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233664,POINT(76.5024405 18.0636712),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/0LAU-1684773773.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233665,POINT(76.502305 18.0629538),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/y2AO-1684773777.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233666,POINT(76.502333 18.063063),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/66XX-1684773781.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233667,POINT(76.5024072 18.0632677),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/FWIN-1684773785.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233668,POINT(76.5024571 18.0634509),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/9aZT-1684773789.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233669,POINT(76.5025059 18.0634862),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/dMV6-1684773793.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233670,POINT(76.5023769 18.0629087),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/mJgH-1684773797.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233671,POINT(76.5023982 18.0631001),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/zoeJ-1684773800.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233672,POINT(76.5024294 18.0631247),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/QV57-1684773804.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233673,POINT(76.5025091 18.0633216),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/zqUQ-1684773808.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233674,POINT(76.5024988 18.0633898),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/DsHt-1684773812.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233675,POINT(76.5024665 18.0630307),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/T1H3-1684773816.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233676,POINT(76.5025337 18.0631026),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/3EFj-1684773820.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233677,POINT(76.5024783 18.0632027),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/4zGF-1684773824.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233678,POINT(76.5026403 18.0633656),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/UEr1-1684773828.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233679,POINT(76.5021471 18.0635248),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/BWM1-1684773832.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233680,POINT(76.5023534 18.0631346),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Q1Ys-1684773836.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233681,POINT(76.5023697 18.0632158),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/g9v0-1684773840.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233682,POINT(76.5023885 18.0632731),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ZsZ9-1684773844.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233683,POINT(76.5024787 18.0634031),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ubI0-1684773848.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233684,POINT(76.5024127 18.0636121),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/QUoC-1684773851.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233685,POINT(76.5023964 18.0630053),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/xS10-1684773855.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233686,POINT(76.5024711 18.0630477),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/H0MZ-1684773859.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233687,POINT(76.5024422 18.0632451),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Ydzx-1684773863.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233688,POINT(76.5020984 18.0634699),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/CqjP-1684773867.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233689,POINT(76.5025758 18.0635612),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/s87Y-1684773871.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233690,POINT(76.5022744 18.0629805),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/vIun-1684773875.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233691,POINT(76.5023191 18.0630081),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/bRLP-1684773879.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233692,POINT(76.502504 18.0634119),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/IuiE-1684773883.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233693,POINT(76.502175 18.0635532),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/mXon-1684773887.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233694,POINT(76.5021677 18.0637325),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/aBhp-1684773891.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233695,POINT(76.5024955 18.0630291),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Zg9k-1684773894.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233696,POINT(76.5025175 18.0631055),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/hCWC-1684773898.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233697,POINT(76.5023669 18.0633712),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/4JaE-1684773902.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233698,POINT(76.5025728 18.06354),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ktCD-1684773907.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233699,POINT(76.5025476 18.0635696),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/bIJW-1684773911.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233700,POINT(76.5022666 18.0630511),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/40L9-1684773915.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233701,POINT(76.5023072 18.0632559),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/WJ1w-1684773920.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233702,POINT(76.5023145 18.0632922),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/vfec-1684773923.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233703,POINT(76.5023617 18.0633762),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/2WyR-1684773927.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233704,POINT(76.5024641 18.0636937),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/8934-1684773931.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233705,POINT(76.5024348 18.0632258),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/42lX-1684773935.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233706,POINT(76.5024938 18.0632644),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/AADz-1684773938.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233707,POINT(76.5024026 18.0633241),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/gMOX-1684773942.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233708,POINT(76.5024051 18.0633379),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/VsAt-1684773946.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233709,POINT(76.5025426 18.0636473),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/T0GK-1684773950.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233710,POINT(76.5025024 18.0629815),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Ixpz-1684773954.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233711,POINT(76.5025176 18.063035),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/VBpS-1684773957.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233712,POINT(76.502658 18.0632923),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/KaM2-1684773961.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233713,POINT(76.5022356 18.0633736),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ily7-1684773965.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233714,POINT(76.502421 18.0635842),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/zeTP-1684773969.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233715,POINT(76.5025136 18.0633323),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ZZMP-1684773973.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233716,POINT(76.5024303 18.063367),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/xP3n-1684773977.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233717,POINT(76.5025291 18.0633844),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/qTXh-1684773980.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233718,POINT(76.5024777 18.0635472),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/lo0V-1684773984.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233719,POINT(76.5024504 18.0636964),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/PiMz-1684773988.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233720,POINT(76.5024932 18.0630133),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/53Qz-1684773992.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233721,POINT(76.5025386 18.0633298),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/auMq-1684773996.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233722,POINT(76.5026043 18.0633653),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/y5pN-1684774000.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233723,POINT(76.5026108 18.0633866),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ciVu-1684774003.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233724,POINT(76.5026686 18.0636429),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ccX5-1684774007.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233725,POINT(76.5022871 18.0631554),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/IKZ4-1684774011.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233726,POINT(76.5023059 18.0632635),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ePPk-1684774015.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233727,POINT(76.5023925 18.0632873),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/0vqz-1684774019.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233728,POINT(76.5020604 18.0634172),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/TGkQ-1684774022.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233729,POINT(76.502173 18.0635672),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/to2g-1684774026.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233730,POINT(76.502395 18.0629914),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/efbS-1684774030.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233731,POINT(76.50235 18.0630875),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/TiHQ-1684774034.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233732,POINT(76.5024752 18.0633469),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/uOv8-1684774038.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233733,POINT(76.5024488 18.0634109),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/IjCh-1684774041.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233734,POINT(76.5026165 18.0636147),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/jkw1-1684774045.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233735,POINT(76.5022192 18.0629275),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Baat-1684774049.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233736,POINT(76.5024196 18.0630806),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ILcv-1684774053.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233737,POINT(76.5024772 18.0631826),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Fil7-1684774057.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233738,POINT(76.502338 18.0633437),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/hCl1-1684774061.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233739,POINT(76.5022976 18.0633711),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/P6xd-1684774064.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233740,POINT(76.5024739 18.0630618),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/35Cu-1684774068.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233741,POINT(76.5023122 18.063197),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/cGNJ-1684774072.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233742,POINT(76.502193 18.063344),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/pocg-1684774076.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233743,POINT(76.5025794 18.0634948),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/T1BV-1684774080.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233744,POINT(76.502648 18.0635552),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/R85u-1684774083.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233745,POINT(76.5023642 18.0631847),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/KAZE-1684774087.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233746,POINT(76.5023445 18.0633357),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Csl6-1684774091.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233747,POINT(76.5024593 18.0635568),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/umkH-1684774095.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233748,POINT(76.5024904 18.063625),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/dAI4-1684774099.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233749,POINT(76.5025051 18.0637054),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/BD3l-1684774102.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233750,POINT(76.5023023 18.0629397),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/gALV-1684774106.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233751,POINT(76.5024857 18.0634275),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/lnid-1684774110.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233752,POINT(76.50251 18.0634293),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/JYqN-1684774114.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233753,POINT(76.5025786 18.063463),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/kvEi-1684774118.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233754,POINT(76.5025411 18.0636384),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/CHkE-1684774121.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233755,POINT(76.5024783 18.0629519),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/8YEi-1684774125.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233756,POINT(76.5025709 18.063275),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/FU4N-1684774129.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233757,POINT(76.502583 18.0632971),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/xTBS-1684774133.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233758,POINT(76.5026099 18.0634054),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/YIs8-1684774137.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233759,POINT(76.5026246 18.0634566),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/uJ19-1684774141.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233760,POINT(76.5025634 18.0633396),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Ompg-1684774144.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233761,POINT(76.5021477 18.063391),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/evgx-1684774148.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233762,POINT(76.5023619 18.0634494),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/H29u-1684774152.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233763,POINT(76.5026264 18.0634696),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/nxgj-1684774156.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233764,POINT(76.5027234 18.0636313),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Ji3j-1684774160.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233765,POINT(76.5023816 18.0629277),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/qtwY-1684774163.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233766,POINT(76.5024362 18.0629351),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/oHig-1684774167.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233767,POINT(76.502449 18.063504),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/8eLz-1684774171.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233768,POINT(76.5024844 18.063594),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/OVtF-1684774175.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233769,POINT(76.502616 18.0636263),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/WWIO-1684774178.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233770,POINT(76.5024845 18.0629777),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/fwhu-1684774182.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233771,POINT(76.502549 18.0632094),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/PKTt-1684774186.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233772,POINT(76.5026536 18.0634044),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Fkhb-1684774190.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233773,POINT(76.5026234 18.0634534),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/rqC9-1684774194.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233774,POINT(76.5026127 18.0634544),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/k4QG-1684774197.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233775,POINT(76.5022486 18.0629271),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/MyvN-1684774202.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233776,POINT(76.5022995 18.0632035),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/A3Fa-1684774206.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233777,POINT(76.5023743 18.0633731),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/m55v-1684774210.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233778,POINT(76.5023718 18.063524),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/wzeK-1684774214.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233779,POINT(76.5024256 18.0636354),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/aPMV-1684774217.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233780,POINT(76.5023874 18.0629755),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/eTFG-1684774221.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233781,POINT(76.5024552 18.0632009),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/QQbi-1684774225.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233782,POINT(76.5024852 18.0632311),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/cQDs-1684774229.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233783,POINT(76.5024001 18.0632529),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/vFlD-1684774233.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233784,POINT(76.5025742 18.0635284),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/wJ5k-1684774236.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233785,POINT(76.502444 18.0630566),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/nHXt-1684774240.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233786,POINT(76.5022762 18.0631222),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/p3hF-1684774244.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233787,POINT(76.5023461 18.063316),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/U7AU-1684774248.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233788,POINT(76.5021569 18.0634072),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/vxeY-1684774252.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233789,POINT(76.5026859 18.0635552),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/63sU-1684774256.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233790,POINT(76.5024414 18.063177),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/tqZN-1684774259.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233791,POINT(76.5023189 18.063319),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/bEo7-1684774263.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233792,POINT(76.5025582 18.0634012),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/LWPK-1684774267.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233793,POINT(76.5025121 18.0634435),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/f000-1684774271.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233794,POINT(76.5025595 18.0634904),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/bptv-1684774275.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233795,POINT(76.5024977 18.0629596),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/20Ha-1684774278.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233796,POINT(76.5025898 18.063329),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/iI3E-1684774282.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233797,POINT(76.5025037 18.0633475),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/IPoR-1684774286.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233798,POINT(76.5025297 18.0633483),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/thbd-1684774290.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233799,POINT(76.5021414 18.063703),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ymbb-1684774294.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233800,POINT(76.5022552 18.0629679),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/JDb3-1684774298.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233801,POINT(76.5022734 18.0631524),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/RPST-1684774302.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233802,POINT(76.5023 18.0631925),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/QmPI-1684774306.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233803,POINT(76.502293 18.0632135),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/M0m1-1684774310.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233804,POINT(76.5023996 18.0634199),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/5vJE-1684774314.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233805,POINT(76.5024629 18.0630179),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/GLZj-1684774318.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233806,POINT(76.5023636 18.0631599),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ulkw-1684774321.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233807,POINT(76.502667 18.06362),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/rHae-1684774325.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233808,POINT(76.5021944 18.0636229),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/MxVw-1684774329.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233809,POINT(76.502199 18.0636347),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/2bDs-1684774333.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233810,POINT(76.5024387 18.0629458),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Xv11-1684774337.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233811,POINT(76.5023822 18.0632142),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Ca7c-1684774341.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233812,POINT(76.5023304 18.0632517),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/aXe7-1684774345.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233813,POINT(76.5026443 18.063519),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Vxyt-1684774349.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233814,POINT(76.5021738 18.0637697),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/DjJs-1684774352.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233815,POINT(76.5022915 18.063224),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/eINU-1684774356.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233816,POINT(76.5024173 18.0633057),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/qzQm-1684774360.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233817,POINT(76.5020941 18.0634598),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/oSH4-1684774364.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233818,POINT(76.5023917 18.0635854),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/5c3S-1684774368.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233819,POINT(76.5024083 18.0636184),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/J9LX-1684774372.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233820,POINT(76.5023616 18.0629496),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/UOhs-1684774376.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233821,POINT(76.5024828 18.0630994),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/YWax-1684774379.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233822,POINT(76.502516 18.0632264),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/rUu9-1684774383.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233823,POINT(76.502545 18.0634499),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/iGkX-1684774387.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233824,POINT(76.5025267 18.0635807),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/DHIj-1684774391.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233825,POINT(76.5025326 18.0633136),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Zwkv-1684774395.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233826,POINT(76.5026463 18.0633597),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/jsLo-1684774398.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233827,POINT(76.502173 18.0635105),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/PmAN-1684774402.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233828,POINT(76.5021436 18.063728),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/7zzO-1684774406.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233829,POINT(76.502141 18.0637527),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Ghpb-1684774410.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233830,POINT(76.5022727 18.0630581),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/a0Ui-1684774414.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233831,POINT(76.5023072 18.0631842),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/kfzt-1684774417.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233832,POINT(76.5024292 18.063361),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/cus3-1684774421.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233833,POINT(76.5024615 18.0634825),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/ogGI-1684774425.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233834,POINT(76.5024669 18.0635843),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Y2PY-1684774429.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233835,POINT(76.5024023 18.0629083),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/WVyr-1684774433.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233836,POINT(76.5024197 18.062979),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/y2Gg-1684774437.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233837,POINT(76.5025808 18.0633042),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/q1K9-1684774440.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233838,POINT(76.5025161 18.0633473),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/oXTY-1684774444.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233839,POINT(76.5026376 18.0635421),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/el0T-1684774448.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233840,POINT(76.5024873 18.0629258),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/NkbC-1684774452.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233841,POINT(76.5023221 18.0632623),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/9kNK-1684774456.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233842,POINT(76.502341 18.0633347),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/Le96-1684774460.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233843,POINT(76.5026315 18.0634852),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/LeZZ-1684774463.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233844,POINT(76.5024366 18.0636708),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/fiGq-1684774467.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233845,POINT(76.5024537 18.0628817),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/lWB0-1684774471.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233846,POINT(76.5025239 18.0630553),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/D8du-1684774475.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233847,POINT(76.5025893 18.0635198),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/CDbP-1684774479.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
+5233848,POINT(76.5026883 18.0635237),https://sankalptaru-app.s3.ap-south-1.amazonaws.com/images/tree/9Gfe-1684774483.jpg,Guava,5/22/2023,Randhir nivrutti,Limbala dau ta ausa dist Latur
